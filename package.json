@@ -1,0 +1,23 @@
+{
+  "name": "testiframeandroidapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node.js",
+  "dependencies": {
+    "heroku": "^7.42.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaminm/TestIframeAndroidApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaminm/TestIframeAndroidApp/issues"
+  },
+  "homepage": "https://github.com/yaminm/TestIframeAndroidApp#readme"
+}
