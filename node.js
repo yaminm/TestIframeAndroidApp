@@ -7,4 +7,4 @@ http.createServer(function (req, res) {
       res.write(data);
       return res.end();
     });
-  })..listen(process.env.PORT || 5000)
+  }).listen(process.env.PORT || 5000)
